@@ -9,7 +9,7 @@
                
     if( $_GET["name"])
     {
-        $celsius = calculateCelsius($_GET["name"]);
+        $celsius = calculateCelsius($fahrenheit);
     }
 
     if ($celsius <= 5){
