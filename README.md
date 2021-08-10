@@ -20,5 +20,5 @@
 * Above 21°C: Hot
 
 
-**Use Bootstrap to show yours results on the screen.**
+**Use Bootstrap to show your results on the screen.**
 
