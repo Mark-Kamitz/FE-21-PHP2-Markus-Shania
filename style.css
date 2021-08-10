@@ -1,0 +1,9 @@
+html, body{
+    height:100vh;
+}
+.interface {
+    height:380px;
+    width:200px;
+    /* border: 1px solid black; */
+    border-radius:50px;
+}
